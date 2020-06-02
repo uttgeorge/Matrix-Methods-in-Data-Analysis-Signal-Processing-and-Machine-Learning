@@ -1,4 +1,6 @@
 # Matrix-Methods-in-Data-Analysis-Signal-Processing-and-Machine-Learning
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
 MIT 18.065 notes
 
 This note only covers topics that not in [18.06 notes](https://github.com/uttgeorge/Linear-Algebra).
