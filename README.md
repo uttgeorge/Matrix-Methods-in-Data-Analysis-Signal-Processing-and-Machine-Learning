@@ -1,7 +1,11 @@
 # Matrix-Methods-in-Data-Analysis-Signal-Processing-and-Machine-Learning
 MIT 18.065 notes
 
-This note only covers topics that not in 18.06.
+This note only covers topics that not in [18.06 notes](https://github.com/uttgeorge/Linear-Algebra).
+
+
+1. [The column space of A contains all vectors Ax](https://github.com/uttgeorge/Matrix-Methods-in-Data-Analysis-Signal-Processing-and-Machine-Learning/blob/master/%201.%20The%20column%20space%20of%20A%20contains%20all%20vectors%20Ax.pdf)
+
 
 
 
